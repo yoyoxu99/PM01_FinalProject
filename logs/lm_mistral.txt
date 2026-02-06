@@ -1,0 +1,25 @@
+============================================================
+LM Probing Evaluation
+============================================================
+Total Accuracy (Raw):       0.4400
+Total Accuracy (Normalized): 0.5000
+
+Accuracy by Ability (Raw):
+Belief: Location false beliefs                     (n=  50): 0.4400
+Belief: Location false beliefs Belief: Second-order beliefs (n=  50): 0.4400
+
+Accuracy by Ability (Normalized):
+Belief: Location false beliefs                     (n=  50): 0.5400
+Belief: Location false beliefs Belief: Second-order beliefs (n=  50): 0.4600
+
+Total Margin (Raw):       -0.6390
+Total Margin (Normalized): -0.6583
+
+Margin by Ability (Raw):
+Belief: Location false beliefs                     (n=  50): -0.5714
+Belief: Location false beliefs Belief: Second-order beliefs (n=  50): -0.7066
+
+Margin by Ability (Normalized):
+Belief: Location false beliefs                     (n=  50): -0.6278
+Belief: Location false beliefs Belief: Second-order beliefs (n=  50): -0.6887
+

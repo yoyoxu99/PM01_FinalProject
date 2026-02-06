@@ -1,0 +1,9 @@
+============================================================
+Free Response Evaluation
+============================================================
+Total Exact Match Accuracy: 0.8400
+
+Accuracy by Ability:
+Belief: Location false beliefs                     (n=  50): 0.7400
+Belief: Location false beliefs Belief: Second-order beliefs (n=  50): 0.9400
+

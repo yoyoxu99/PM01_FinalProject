@@ -1,0 +1,7 @@
+Metric,Value
+FR_BASE_OR_AvgAcc,0.878
+FR_BASE_FO_AvgAcc,0.808
+FR_BASE_SO_AvgAcc,0.948
+FR_COT_OR_AvgAcc,0.766
+FR_COT_FO_AvgAcc,0.656
+FR_COT_SO_AvgAcc,0.876

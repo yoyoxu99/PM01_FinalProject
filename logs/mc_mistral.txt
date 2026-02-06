@@ -1,0 +1,20 @@
+============================================================
+MC Evaluation
+============================================================
+Try times : 5
+Seed      : 42
+------------------------------------------------------------
+[mc_mistral]
+  Raw Acc    : 0.2640
+  Vote Acc   : 0.2800
+  Parse Rate : 1.0000
+
+  Accuracy by ABILITY (Raw):
+    Belief: Location false beliefs                     (n= 250): 0.3560
+    Belief: Location false beliefs Belief: Second-order beliefs (n= 250): 0.1720
+
+  Accuracy by ABILITY (Vote):
+    Belief: Location false beliefs                     (n=  50): 0.3800
+    Belief: Location false beliefs Belief: Second-order beliefs (n=  50): 0.1800
+------------------------------------------------------------
+============================================================
