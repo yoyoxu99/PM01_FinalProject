@@ -1,8 +1,8 @@
 # PM01_FinalProject
 
-📌 Overview
-This repository contains the implementation and experimental code for the final course project of Profilierungsmodul Computerlinguistik I – Trustworthy Data-centric AI.
-The project focuses on evaluating and analyzing Theory of Mind (ToM) reasoning abilities in Large Language Models (LLMs) using different probing methods.
+## 📌 Overview
+This repository contains the implementation and experimental code for the final course project of Profilierungsmodul Computerlinguistik I – Trustworthy Data-centric AI. \
+The project focuses on evaluating and analyzing Theory of Mind (ToM) reasoning abilities in Large Language Models (LLMs) using different probing methods. \
 The main goal of this project is not performance optimization, but to critically examine and improve existing evaluation protocols in the context of trustworthy and data-centric AI.
 
 ## 📂 Project Structure
