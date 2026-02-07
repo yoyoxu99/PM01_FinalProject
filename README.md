@@ -19,7 +19,7 @@ PM01_FinalProject/
 │   └── fr_*.jsonl
 │
 ├── src/                      # Source code
-│   ├── run_model.py          # Run model & generate outputs
+│   ├── run_*_model.py          # Run model & generate outputs
 │   ├── eval_*.py             # Evaluation scripts
 │   ├── lm.py                 # Prompt + Aggregation + Scoring
 │   ├── mc.py
@@ -29,7 +29,6 @@ PM01_FinalProject/
 │   └── *.txt
 │
 ├── Figures/                  # Figures in thesis
-│   └── Figure_3.png
 │
 ├── summary_final.csv         # Final evaluation results
 ├── fr_avg.csv                # FR average accuracy
